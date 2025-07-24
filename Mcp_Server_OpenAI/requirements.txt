@@ -1,0 +1,4 @@
+fastmcp
+pymongo
+openai
+python-dotenv
