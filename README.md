@@ -43,9 +43,3 @@ Each tool handles a specific data request and returns a clean response for forma
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/weather-mcp.git
-   cd weather-mcp
